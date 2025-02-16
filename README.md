@@ -8,7 +8,7 @@
 ```
 📦 Customer-Lifetime-Value-Analysis  
  ├── 📄 [Customer_Lifetime_Value_Analysis.ipynb](Customer_Lifetime_Value_Analysis.ipynb)  # Jupyter Notebook with code & analysis  
- ├── 📄 [Customer_Lifetime_Value_Analysis.pdf](Customer_Lifetime_Value_Analysis.pdf)   # PDF with full report (visualizations included)  
+ ├── 📄 [Customer_Lifetime_Value_Analysis.pdf](Customer_Lifetime_Value_Analysis.pdf)   # HTML file with full report (visualizations included)  
  ├── 📄 [customer_acquisition_data.csv](customer_acquisition_data.csv)  # Customer acquisition dataset  
  ├── 📄 README.md  # Project description  
 ```
