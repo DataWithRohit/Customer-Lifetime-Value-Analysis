@@ -43,5 +43,7 @@
 
 ## **📢 Contact**  
 For any queries, feel free to reach out! 😊  
-(Linkeldn)[https://www.linkedin.com/in/rohit-panwar22/]
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rohit-panwar22/)
+
 
