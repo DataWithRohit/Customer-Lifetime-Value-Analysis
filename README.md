@@ -26,7 +26,7 @@
 ## **📈 Key Insights**  
 ✔ **Total Revenue by Channel** – Pie chart visualization  
 ✔ **Conversion Rate Analysis** – Bar chart comparison  
-✔ **Return on Investment (ROI) per Channel** – ROI calculation & visualization  
+✔ **Return on Investment (ROI) per Channel** – ROI calculation & visualization and more
 
 ---
 
